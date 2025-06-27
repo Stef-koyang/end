@@ -101,7 +101,7 @@ export default function Dashboard() {
 
   return (
     <div className="p-6 space-y-6">
-      <h1 className="text-3xl font-bold">Dashboard Gaz & Fumée</h1>
+      <h1 className="text-3xl font-bold">Dashboard Gaz  Fumée</h1>
 
       <div>
         <label className="mr-2">Sélectionner un utilisateur :</label>
